@@ -11,7 +11,7 @@ py -m pip install requests
 ## Run
 
 ```powershell
-py phone_tracker_cyberpunk.py
+py phone_tracker.py
 ```
 
 The Android device must have location permission and actively send GPS

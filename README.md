@@ -1,4 +1,4 @@
-# PhoneTracker Cyberpunk Tkinter
+# PhoneTracker Windows Application 
 
 Windows desktop dashboard for the PhoneTracker API.
 
